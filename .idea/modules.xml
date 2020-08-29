@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Testpro.iml" filepath="$PROJECT_DIR$/Testpro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javatweb/javatweb.iml" filepath="$PROJECT_DIR$/javatweb/javatweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/staticweb/staticweb.iml" filepath="$PROJECT_DIR$/staticweb/staticweb.iml" />
+    </modules>
+  </component>
+</project>
